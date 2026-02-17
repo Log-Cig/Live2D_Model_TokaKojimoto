@@ -140,6 +140,14 @@
 	"ParameterGroups": [],
 	"Parts": [
 		{
+			"Id": "Part4",
+			"Name": "体.png"
+		},
+		{
+			"Id": "Part3",
+			"Name": "柑本橙花_v1.1.png"
+		},
+		{
 			"Id": "Part",
 			"Name": "左目"
 		},
